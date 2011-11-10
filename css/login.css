@@ -1,0 +1,64 @@
+body {
+    background-color: #3F0B1B;
+    font-family: Calibri,Verdana,Arial;
+}
+h1{
+    position: absolute;
+    width: 550px;
+    height: 70px;
+    font-size: 50px;
+    font-family: 'Sancreek', cursive;
+    letter-spacing:3px;
+    top:20px;
+    left: 220px;
+    padding-left: 50px;
+    color:#C61243;
+    font-style: oblique;
+    background-color: #7A1631;
+    border-radius:20px;
+    -webkit-border-radius:20px;
+    -moz-border-radius:20px;
+
+}
+#container{
+    position: relative;
+    top:  60px;
+    left: 100px;
+    width: 100px;
+    height: 100px;
+
+}
+
+#login{
+ position: relative;
+ top:130px;
+ left: 220px;
+ width: 600px;
+ height: 400px;
+ background-color: #7A1631;
+ border-radius:20px;
+ -webkit-border-radius:20px;
+ -moz-border-radius:20px;
+ box-shadow:1px 1px 2px white;
+ -webkit-box-shadow:1px 1px 10px #cf423c;
+ -moz-box-shadow:1px 1px 10px #cf423c;
+}
+
+/*log-in--------------------------------------*/
+#loginTabla{
+    position: relative;
+    left:100px;
+    top:70px;
+    color: white;
+    font-size: 25px;
+}
+#loginTabla tr{
+    height: 70px;
+}
+#loginTabla #botonIngresar{
+    height: 40px;
+    width: 150px;
+    font-size: 20px;
+    
+}
+
